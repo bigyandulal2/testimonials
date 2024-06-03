@@ -100,7 +100,7 @@ html {
   color: var(--dark_blue_gray);
 }
 .item5 .item_profile,
-.item3 .item_heading {
+.item3 .item_profile {
   color: var(--dark_blue_gray) !important;
 }
 
